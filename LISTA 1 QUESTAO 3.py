@@ -1,0 +1,5 @@
+num1 = int(input("Digite o número um : "))
+num2 = int(input("Digite o número dois : "))
+num3 = int(input("Digite o número três: "))
+menor_num = min(num1, num2, num3)#função min()
+print("O menor número é:", menor_numero)
